@@ -6,7 +6,7 @@ Updated to work with Cordova 7 (package.json file was missing)
 
 # Installation
 ``
-cordova plugin add https://github.com/markeeftb/cordova-bring-to-front
+cordova plugin add https://github.com/justincts1975/cordova-bring-to-front
 ``
 
 # Usage

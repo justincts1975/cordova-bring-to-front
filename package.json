@@ -2,7 +2,7 @@
   "name": "cordova-bring-to-front",
   "version": "0.0.1",
   "cordova": {
-    "id": "in.lucasdup.bringtofront",
+    "id": "cordova-bring-to-front",
     "platforms": [
       "android"
     ]
